@@ -13,7 +13,7 @@ export class Home extends Component {
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor,
               aspernatur ratione? Quia, perspiciatis. Quis eum, perferendis
               dolorem esse sed aliquid commodi, sapiente modi rem laborum
-              officia culpa sint tenetur? Consequuntur eligendi iusto soluta
+              officia culpa sint teasdasnetur? Consequuntur eligendi iusto soluta
               molestias magni et maxime expedita possimus fugit quam! Laudantium
               asperiores officia neque autem? Enim iusto eveniet fuga sequi
               repudiandae saepe ad autem ea, quod animi veritatis alias
