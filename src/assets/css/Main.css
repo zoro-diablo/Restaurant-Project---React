@@ -1,0 +1,25 @@
+.mainmenu{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+    
+    
+}
+
+.nav{
+    background-color: rgba(215, 172, 17, 0.879);
+    border-radius: 0 0 10% 10%;
+    border:5px solid black
+}
+
+.footer{
+    background-color: rgb(56, 52, 52);
+    margin: 10px auto;
+    padding: 10px;
+    position: fixed;
+    bottom:0;
+    width:100%;
+    color: white;
+}
